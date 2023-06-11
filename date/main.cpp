@@ -13,7 +13,7 @@ int main(int argc, const char * argv[]) {
     project::Date dt;
     
     dt.set(18,8,1900);
-
+//değişiklikler
 
 //    std::cout<<dt.get_year_day()<<"\n\n";
 //    dt.set_year(2001);
